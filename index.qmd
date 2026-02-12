@@ -4,6 +4,11 @@ author: "Stanislav Jíra"
 format: html
 ---
 
+body {
+  color: #2c2c2c;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
 ## Quarto
 
 
