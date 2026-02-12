@@ -2,15 +2,13 @@
 title: "Lithobionts in cryosphere"
 author: "Stanislav Jíra"
 format: html
+theme: cosmo
+    toc: true
+    number-sections: true
+    code-fold: true
 ---
 
-body {
-  color: #2c2c2c;
-  font-family: "Helvetica Neue", Arial, sans-serif;
-}
-
 ## Quarto
-
 
 ```{r}
 1 + 1
