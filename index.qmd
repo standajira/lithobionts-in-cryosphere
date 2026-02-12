@@ -5,7 +5,7 @@ format: html
 editor: visual
 ---
 
-## Sampling
+## Sampling and
 
 All samples were collected during one month in the Austrian Alps in 2023. They come from the Dachstein massif, Hochkönig massif, and Selbhorn. Below you can see maps with detailed geographical locations for each sample,
 
