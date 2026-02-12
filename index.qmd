@@ -1,15 +1,5 @@
+--- 
+title: "Lithobionts in cryosphere" 
+author: "Stanislav Jíra" 
+format: html 
 ---
-title: "Lithobionts in cryosphere"
-author: "Stanislav Jíra"
-format: html
-theme: cosmo
-    toc: true
-    number-sections: true
-    code-fold: true
----
-
-## Quarto
-
-```{r}
-1 + 1
-```
