@@ -1,7 +1,0 @@
----
-title: "Untitled"
-author: "Stanislav Jíra"
-format: html
----
-
-##Lithobionts are cool##
