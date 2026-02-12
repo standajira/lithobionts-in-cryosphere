@@ -1,5 +1,0 @@
---- 
-title: "Lithobionts in cryosphere" 
-author: "Stanislav Jíra" 
-format: html 
----
