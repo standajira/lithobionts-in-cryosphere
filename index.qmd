@@ -1,16 +1,22 @@
 ---
-title: "Lithobionts in cryosphere"
+title: "Lithobionts in the Cryosphere Project"
 format: html
 editor: visual
 theme: cosmo
 image: (img/logo.png)
 ---
 
-![](img/cryo.png){width="188"}![](img/logo.png){width="150"}
+![](img/cryo.png){width="188"}      ![](img/logo.png){width="150"}
+
+## Introduction
+
+This project explores limestone rocks in the Austrian Alps and using ITS2 rDNA metabarcoding uncovers diversity of lithobiontic green algae. Many of the present strains can also be found in cryosphere-adjacent habitats. Our samples uncovered several taxa of snow algae showing that limestone rocks can serve as reservoirs during summer time periods.
 
 ## Sampling and Methods
 
-All samples were collected over a one-month period in the Austrian Alps in 2023. They come from the Dachstein massif, Hochkönig massif, and Selbhorn. Below you can see maps with detailed geographical locations for each sample,
+### Sampling
+
+All samples were collected over one month in the Austrian Alps in 2023. They come from the **Dachstein massif**, **Hochkönig massif**, and **Selbhorn**. Below you can see maps with detailed geographical locations for each sample,
 
 ![*Sampling sites at Dachstein Massif (Austria). Sampling was conducted in the range 860– 2,651 m a.s.l.*](img/dachstein.png)
 
@@ -18,8 +24,12 @@ All samples were collected over a one-month period in the Austrian Alps in 2023.
 
 ![*Sampling sites at Selborn (Austria). Sampling was conducted in the range 950–2,650 m a.s.l.*](img/selbhorn.png)
 
+### Methods
+
+Algal biofilm samples extracted from rocks and frozen at -20 °C were used for amplicon sequencing. The DNA was isolated using the DNeasy Power Soil Kit (QIAGEN, Germany) according to the manufacturer's instructions. The success of the isolation was measured using the QubitTM 1X dsDNA High Sensitivity (HS) (ThermoFisher Scientific, USA). Only isolates with a DNA concentration higher than 0.1 ng/µL were used for further downstream applications. The isolated DNA was then stored at -20 °C until further processing. The obtained DNA sequences were processed in SEED 2, a pipeline platform for amplicon high-throughput sequencing data analyses (Větrovský et al.,2018). Sequences were processed according to the following procedure provided in the tutorial “Amplicon data processing tutorial” (available at: https://www.biomed.cas.cz/mbu/lbwrf/seed/) with minor adjustments and modifications for a better adaptation. After the automatic BLAST search, the focus was shifted to the created OTU table and diversity indices table (generated using the local database), both of which consisted only of Chlorophyta OTUs. The minimum percent similarity of 95% and 60% sequence coverage were used as the threshold to consider a database match as a hit. Rare clusters with fewer than 11 reads across all the samples were removed (Procházková et al., 2024). The 60 most abundant OTUs (OTUs containing \>400 sequences across all samples) were manually BLASTed against the NCBI nt. database.
+
 ## Altitudinal zones
 
-Sampling was conducted alongside an altitudinal gradient- ranging from 800 to almost 2,700 m a.s.l. We separated the gradient into separate zones for easier and more precise statistical analyses. The samples were assigned to the three groups based on the elevation of the sites – forest (800–1,700 m a.s.l.), transient (1,700–2,200 m a.s.l.), and alpine (2,200–2,700 m a.s.l.) zones. These zones were created on the basis of local vegetation types. Habitats with a stable cover of taller trees and shrubs were assigned to the forest zone. The transient zone typically did not have many taller trees, and the only form of vegetation were shrubs and grasses. The shrubs gradually disappeared, and only grasses and smaller herbs remained. This was the beginning of the alpine zone, which was completely devoid of vegetational cover (except for terricolous and saxicolous lichens) in its upper parts. You can see photos representing each zone with usual vegetation found there below.
+Sampling was conducted alongside an altitudinal gradient- ranging from 800 to almost 2,700 m a.s.l. We separated the gradient into separate zones for easier and more precise statistical analyses. The samples were assigned to the three groups based on the elevation of the sites – **forest** (800–1,700 m a.s.l.), **transient** (1,700–2,200 m a.s.l.), and **alpine** (2,200–2,700 m a.s.l.) zones. These zones were created on the basis of local vegetation types. Habitats with a stable cover of taller trees and shrubs were assigned to the forest zone. The transient zone typically did not have many taller trees, and the only form of vegetation were shrubs and grasses. The shrubs gradually disappeared, and only grasses and smaller herbs remained. This was the beginning of the alpine zone, which was completely devoid of vegetational cover (except for terricolous and saxicolous lichens) in its upper parts. You can see photos representing each zone with usual vegetation found there below.
 
 ![*Three altitudinal zones with typical sampling localities on the left and representative plants on the right.*](img/alt_zones.png){width="525"}
