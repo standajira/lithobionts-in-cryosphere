@@ -9,6 +9,8 @@ editor: visual
 
 All samples were collected during one month in the Austrian Alps in 2023. They come from the Dachstein massif, Hochkönig massif, and Selbhorn. Below you can see maps with detailed geographical locations for each sample,
 
+![photo](img/logo.png){width="251"}
+
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 ## Running Code
