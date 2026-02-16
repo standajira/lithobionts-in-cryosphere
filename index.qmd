@@ -10,7 +10,7 @@ image: (img/logo.png)
 
 ## Introduction
 
-This project explores limestone rocks in the Austrian Alps and uses ITS2 rDNA metabarcoding uncovers diversity of lithobiontic green algae. Many of the present strains can also be found in cryosphere-adjacent habitats. Our samples uncovered several taxa of snow algae, showing that limestone rocks can serve as reservoirs during summer time periods.
+This project explores limestone rocks in the Austrian Alps and uses ITS2 rDNA metabarcoding uncovers diversity of lithobiontic green algae. Many of the present strains can also be found in cryosphere-adjacent habitats. Our samples uncovered several taxa of snow algae, showing that limestone rocks can serve as reservoirs during summer time periods. Additional information with scripts and data can be found here: <https://github.com/standajira/lithobionts-in-cryosphere>
 
 ## Sampling and Methods
 
@@ -34,6 +34,16 @@ Sampling was conducted alongside an altitudinal gradient- ranging from 800 to al
 
 ![*Three altitudinal zones with typical sampling localities on the left and representative plants on the right.*](img/alt_zones.png){width="525"}
 
+## Metadata
+
+![*List of samples collected on Dachstein Massif with geographical location and elevation data. A simple site description points out the main differences in the environment and vegetation cover.*](img/sites_dachstein.png)
+
+![*List of samples collected on Hochkönig Massif with geographical location and elevation data. A simple site description points out the main differences in the environment and vegetation cover.*](img/sites_hoch.png)
+
+![*List of samples collected on Selbhorn with geographical location and elevation data. A simple site description points out the main differences in the environment and vegetation cover.*](img/sites_selb.png)
+
 ### Other data
 
-Other data and information can be found in our GitHub repository. This repository is under work and constant updates can be expected - https://github.com/standajira/lithobionts-in-cryosphere
+Other data and information can be found in our GitHub repository. This repository is under work, and constant updates can be expected - <https://github.com/standajira/lithobionts-in-cryosphere>
+
+![](img/cryo.png)
